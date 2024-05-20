@@ -1,0 +1,42 @@
+*{
+    margin-top: 0;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    width: 980px;
+    height: 140px;
+    background-color: aquamarine;
+}
+
+h1 h2 p{
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+}
+
+#sidebar {
+    width: 270px;
+    height: 450px;
+    margin-top: 15px;
+    margin-right: 15px;
+    background-color: aquamarine;
+}
+
+#content {
+    width: 695px;
+    height: 450px;
+    margin-top: 15px;
+    background-color: aquamarine;
+}
+
+footer{
+    width: 980px;
+    height: 70px;
+    margin-top: 15px;
+    background-color: aquamarine;
+}
